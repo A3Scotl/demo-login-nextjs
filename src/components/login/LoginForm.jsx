@@ -1,5 +1,5 @@
-import { LoginHeader } from './LoginHeader';
-import { LoginFormCard } from './LoginFormCard';
+import { LoginHeader } from '@/components/login/LoginHeader';
+import { LoginFormCard } from '@/components/login/LoginCard';
 
 export default function LoginForm() {
   return (
